@@ -22,7 +22,7 @@ header {
     min-height: auto;
     text-align: center;
     color: #fff;
-    background-image: url(../img/capa.jpg);
+    background-image: url(img/capa.jpg);
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -151,7 +151,7 @@ header .header-content .header-content-inner h1{
 }
 
 header::before {
-    background: rgba(0, 0, 0, 0) url(../img/bg-pixel-50.png) repeat scroll 0 0 !important;
+    background: rgba(0, 0, 0, 0) url(img/bg-pixel-50.png) repeat scroll 0 0 !important;
     bottom: 0;
     content: "";
     left: 0;
